@@ -62,7 +62,7 @@ header nav {
   }
   /* Hero Style Start */
 .hero {
-  background-image: url(./assets/images/hero-bg.jpg);
+  background-image: url(./images/hero-bg.jpg);
   height: 600px;
   background-size: cover;
   background-position: center;
@@ -223,7 +223,6 @@ header nav {
 .contact-info a {
   color: #fce138;
 }
-
 /* REACH OUT STYLES END */
 
 /* Hero Style End */
